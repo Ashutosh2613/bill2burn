@@ -51,7 +51,7 @@ Here’s the high-level **Adaptive RAG flow** used in the project:
 - Computes per-item and total calorie count
 
 ### 3. Embedding document
-- Converts food items and calorie data into **vector embeddings**  
+- Converts food items and calorie data into **vector embeddings** (Intially converted exercises pdf into json doc for embedding) 
 - Stores them in a vector database for semantic search and retrieval  
 
 ### 4. 🔍 Agentic RAG Pipeline
