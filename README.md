@@ -60,4 +60,14 @@ Here’s the high-level **Adaptive RAG flow** used in the project:
 
 ### 5. 🏃 Exercise Recommendation
 - Suggests multiple exercises based on user preference (e.g., jogging, cycling, HIIT)  
-- Provides **duration (minutes)** to burn the total calories  
+- Provides **duration (minutes)** to burn the total calories
+
+---
+
+## 📚 References
+
+1. **Physical Health Compendium**  
+   Used for finding exercises along with their MET (Metabolic Equivalent of Task) values. PDF is attached.  
+
+2. **[Nutrionix.com](https://www.nutritionix.com/)**  
+   Used as a source of calorie and nutrition information for food items.
